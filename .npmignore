@@ -1,10 +1,6 @@
 test
-typings
 .gitignore
 .travis.yml
-ambient.d.ts
 appveyor.yml
 CHANGELOG.md
 design.md
-Gruntfile.js
-typings.json
