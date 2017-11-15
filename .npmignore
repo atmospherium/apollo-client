@@ -7,7 +7,4 @@ appveyor.yml
 CHANGELOG.md
 design.md
 Gruntfile.js
-rollup.config.js
-tsconfig.json
-tslint.json
 typings.json
